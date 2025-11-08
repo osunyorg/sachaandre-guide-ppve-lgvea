@@ -14,8 +14,24 @@ items:
     path: "/pages/section-1-milieux-humides-et-sols-hydromorphes"
     file: content/fr/pages/section-1-milieux-humides-et-sols-hydromorphes/_index.html
   - title: Section 2 - Les ressources en eau et les continuités hydrologiques
-    target: ''
-    kind: blank
+    target: "/section-2-ressources-en-eau-et-continuites-hydrologiques/"
+    kind: page
     new_tab: false
     children: []
+    path: "/pages/section-2-ressources-en-eau-et-continuites-hydrologiques"
+    file: content/fr/pages/section-2-ressources-en-eau-et-continuites-hydrologiques/_index.html
+  - title: 'Section 3 - La biodiversité et les espèces protégées '
+    target: "/section-3-biodiversite-especes-protegees/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-3-biodiversite-especes-protegees"
+    file: content/fr/pages/section-3-biodiversite-especes-protegees/_index.html
+  - title: Section 4 - Les effets cumulés, les interactions et la fragmentation écologique
+    target: "/section-4-effets-cumules-interactions-fragmentation-ecologique/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-4-effets-cumules-interactions-fragmentation-ecologique"
+    file: content/fr/pages/section-4-effets-cumules-interactions-fragmentation-ecologique/_index.html
 
