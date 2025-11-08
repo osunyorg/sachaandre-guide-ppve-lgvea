@@ -1,18 +1,16 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/organisations/"
-  kind: page
+- title: Sections
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  children:
+  - title: Section 1 - Les milieux humides et les sols hydromorphes
+    target: "/section-1-milieux-humides-et-sols-hydromorphes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-1-milieux-humides-et-sols-hydromorphes"
+    file: content/fr/pages/section-1-milieux-humides-et-sols-hydromorphes/_index.html
 
