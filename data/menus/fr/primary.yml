@@ -13,4 +13,9 @@ items:
     children: []
     path: "/pages/section-1-milieux-humides-et-sols-hydromorphes"
     file: content/fr/pages/section-1-milieux-humides-et-sols-hydromorphes/_index.html
+  - title: Section 2 - Les ressources en eau et les continuités hydrologiques
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
 
