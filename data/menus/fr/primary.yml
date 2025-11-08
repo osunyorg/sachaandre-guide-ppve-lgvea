@@ -34,4 +34,16 @@ items:
     children: []
     path: "/pages/section-4-effets-cumules-interactions-fragmentation-ecologique"
     file: content/fr/pages/section-4-effets-cumules-interactions-fragmentation-ecologique/_index.html
+  - title: Section 5 - Les mesures compensatoires et leur efficacité écologique
+    target: "/section-5-mesures-compensatoires-efficacite-ecologique/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-5-mesures-compensatoires-efficacite-ecologique"
+    file: content/fr/pages/section-5-mesures-compensatoires-efficacite-ecologique/_index.html
+- title: Site de LGVEA
+  target: https://www.lgvea.fr
+  kind: url
+  new_tab: true
+  children: []
 
