@@ -57,6 +57,20 @@ items:
     children: []
     path: "/pages/section-6-suivi-environnemental-transparence-evaluation-1"
     file: content/fr/pages/section-6-suivi-environnemental-transparence-evaluation-1/_index.html
+  - title: Section 8 - Les effets sur le climat, l'énergie et la transition écologique
+    target: "/section-8-effet-climat-energie-transition-ecologique/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-8-effet-climat-energie-transition-ecologique"
+    file: content/fr/pages/section-8-effet-climat-energie-transition-ecologique/_index.html
+  - title: Section 9 - Les risques technologiques, sanitaires et de pollution
+    target: "/section-9-risques-technologiques-sanitaires-pollution/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-9-risques-technologiques-sanitaires-pollution"
+    file: content/fr/pages/section-9-risques-technologiques-sanitaires-pollution/_index.html
 - title: Site de LGVEA
   target: https://www.lgvea.fr
   kind: url
