@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Sections
-  target: ''
-  kind: blank
+  target: "/sections/"
+  kind: page
   new_tab: false
   children:
   - title: Section 1 - Les milieux humides et les sols hydromorphes
@@ -71,6 +71,38 @@ items:
     children: []
     path: "/pages/section-9-risques-technologiques-sanitaires-pollution"
     file: content/fr/pages/section-9-risques-technologiques-sanitaires-pollution/_index.html
+  - title: Section 10 - Les effets socio-économiques et territoriaux
+    target: "/section-10-effets-socio-economiques-territoriaux/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-10-effets-socio-economiques-territoriaux"
+    file: content/fr/pages/section-10-effets-socio-economiques-territoriaux/_index.html
+  - title: Section 11 - Le suivi des engagements et la participation citoyenne dans
+      le temps
+    target: "/section-11-suivi-engagements-participation-citoyenne/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-11-suivi-engagements-participation-citoyenne"
+    file: content/fr/pages/section-11-suivi-engagements-participation-citoyenne/_index.html
+  - title: Section 12 - Les espèces emblématiques et les zones à enjeux majeurs (cas
+      du Vison d’Europe)
+    target: "/section-12-especes-emblematiques-vison-europe/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-12-especes-emblematiques-vison-europe"
+    file: content/fr/pages/section-12-especes-emblematiques-vison-europe/_index.html
+  - title: Section 13 - Les effets hydromorphologiques et la gestion des eaux pluviales
+    target: "/section-13-hydromorphologie-gestion-des-eaux-pluviales/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-13-hydromorphologie-gestion-des-eaux-pluviales"
+    file: content/fr/pages/section-13-hydromorphologie-gestion-des-eaux-pluviales/_index.html
+  path: "/pages/sections"
+  file: content/fr/pages/sections/_index.html
 - title: Site de LGVEA
   target: https://www.lgvea.fr
   kind: url
