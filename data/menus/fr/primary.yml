@@ -41,6 +41,22 @@ items:
     children: []
     path: "/pages/section-5-mesures-compensatoires-efficacite-ecologique"
     file: content/fr/pages/section-5-mesures-compensatoires-efficacite-ecologique/_index.html
+  - title: Section 6 - Le suivi environnemental, la transparence et l’évaluation dans
+      le temps
+    target: "/section-6-suivi-environnemental-transparence-evaluation/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-6-suivi-environnemental-transparence-evaluation"
+    file: content/fr/pages/section-6-suivi-environnemental-transparence-evaluation/_index.html
+  - title: Section 7 - La conformité juridique, la gouvernance et la responsabilité
+      environnementale
+    target: "/section-6-suivi-environnemental-transparence-evaluation-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/section-6-suivi-environnemental-transparence-evaluation-1"
+    file: content/fr/pages/section-6-suivi-environnemental-transparence-evaluation-1/_index.html
 - title: Site de LGVEA
   target: https://www.lgvea.fr
   kind: url
