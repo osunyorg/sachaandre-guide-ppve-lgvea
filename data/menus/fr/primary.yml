@@ -2,110 +2,153 @@
 title: Menu principal
 items:
 - title: Sections
+  slug: sections
   target: "/sections/"
   kind: page
   new_tab: false
   children:
   - title: Section 1 - Les milieux humides et les sols hydromorphes
+    slug: section-1-les-milieux-humides-et-les-sols-hydromorphes
     target: "/section-1-milieux-humides-et-sols-hydromorphes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-1-milieux-humides-et-sols-hydromorphes"
     file: content/fr/pages/section-1-milieux-humides-et-sols-hydromorphes/_index.html
   - title: Section 2 - Les ressources en eau et les continuités hydrologiques
+    slug: section-2-les-ressources-en-eau-et-les-continuites-hydrologiques
     target: "/section-2-ressources-en-eau-et-continuites-hydrologiques/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-2-ressources-en-eau-et-continuites-hydrologiques"
     file: content/fr/pages/section-2-ressources-en-eau-et-continuites-hydrologiques/_index.html
   - title: 'Section 3 - La biodiversité et les espèces protégées '
+    slug: section-3-la-biodiversite-et-les-especes-protegees
     target: "/section-3-biodiversite-especes-protegees/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-3-biodiversite-especes-protegees"
     file: content/fr/pages/section-3-biodiversite-especes-protegees/_index.html
   - title: Section 4 - Les effets cumulés, les interactions et la fragmentation écologique
+    slug: section-4-les-effets-cumules-les-interactions-et-la-fragmentation-ecologique
     target: "/section-4-effets-cumules-interactions-fragmentation-ecologique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-4-effets-cumules-interactions-fragmentation-ecologique"
     file: content/fr/pages/section-4-effets-cumules-interactions-fragmentation-ecologique/_index.html
   - title: Section 5 - Les mesures compensatoires et leur efficacité écologique
+    slug: section-5-les-mesures-compensatoires-et-leur-efficacite-ecologique
     target: "/section-5-mesures-compensatoires-efficacite-ecologique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-5-mesures-compensatoires-efficacite-ecologique"
     file: content/fr/pages/section-5-mesures-compensatoires-efficacite-ecologique/_index.html
   - title: Section 6 - Le suivi environnemental, la transparence et l’évaluation dans
       le temps
+    slug: section-6-le-suivi-environnemental-la-transparence-et-l-evaluation-dans-le-temps
     target: "/section-6-suivi-environnemental-transparence-evaluation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-6-suivi-environnemental-transparence-evaluation"
     file: content/fr/pages/section-6-suivi-environnemental-transparence-evaluation/_index.html
   - title: Section 7 - La conformité juridique, la gouvernance et la responsabilité
       environnementale
+    slug: section-7-la-conformite-juridique-la-gouvernance-et-la-responsabilite-environnementale
     target: "/section-6-suivi-environnemental-transparence-evaluation-1/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-6-suivi-environnemental-transparence-evaluation-1"
     file: content/fr/pages/section-6-suivi-environnemental-transparence-evaluation-1/_index.html
   - title: Section 8 - Les effets sur le climat, l'énergie et la transition écologique
+    slug: section-8-les-effets-sur-le-climat-l-energie-et-la-transition-ecologique
     target: "/section-8-effet-climat-energie-transition-ecologique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-8-effet-climat-energie-transition-ecologique"
     file: content/fr/pages/section-8-effet-climat-energie-transition-ecologique/_index.html
   - title: Section 9 - Les risques technologiques, sanitaires et de pollution
+    slug: section-9-les-risques-technologiques-sanitaires-et-de-pollution
     target: "/section-9-risques-technologiques-sanitaires-pollution/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-9-risques-technologiques-sanitaires-pollution"
     file: content/fr/pages/section-9-risques-technologiques-sanitaires-pollution/_index.html
   - title: Section 10 - Les effets socio-économiques et territoriaux
+    slug: section-10-les-effets-socio-economiques-et-territoriaux
     target: "/section-10-effets-socio-economiques-territoriaux/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-10-effets-socio-economiques-territoriaux"
     file: content/fr/pages/section-10-effets-socio-economiques-territoriaux/_index.html
   - title: Section 11 - Le suivi des engagements et la participation citoyenne dans
       le temps
+    slug: section-11-le-suivi-des-engagements-et-la-participation-citoyenne-dans-le-temps
     target: "/section-11-suivi-engagements-participation-citoyenne/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-11-suivi-engagements-participation-citoyenne"
     file: content/fr/pages/section-11-suivi-engagements-participation-citoyenne/_index.html
   - title: Section 12 - Les espèces emblématiques et les zones à enjeux majeurs (cas
       du Vison d’Europe)
+    slug: section-12-les-especes-emblematiques-et-les-zones-a-enjeux-majeurs-cas-du-vison-d-europe
     target: "/section-12-especes-emblematiques-vison-europe/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-12-especes-emblematiques-vison-europe"
     file: content/fr/pages/section-12-especes-emblematiques-vison-europe/_index.html
   - title: Section 13 - Les effets hydromorphologiques et la gestion des eaux pluviales
+    slug: section-13-les-effets-hydromorphologiques-et-la-gestion-des-eaux-pluviales
     target: "/section-13-hydromorphologie-gestion-des-eaux-pluviales/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/section-13-hydromorphologie-gestion-des-eaux-pluviales"
     file: content/fr/pages/section-13-hydromorphologie-gestion-des-eaux-pluviales/_index.html
+  descendants_targets:
+  - "/section-1-milieux-humides-et-sols-hydromorphes/"
+  - "/section-10-effets-socio-economiques-territoriaux/"
+  - "/section-11-suivi-engagements-participation-citoyenne/"
+  - "/section-12-especes-emblematiques-vison-europe/"
+  - "/section-13-hydromorphologie-gestion-des-eaux-pluviales/"
+  - "/section-2-ressources-en-eau-et-continuites-hydrologiques/"
+  - "/section-3-biodiversite-especes-protegees/"
+  - "/section-4-effets-cumules-interactions-fragmentation-ecologique/"
+  - "/section-5-mesures-compensatoires-efficacite-ecologique/"
+  - "/section-6-suivi-environnemental-transparence-evaluation-1/"
+  - "/section-6-suivi-environnemental-transparence-evaluation/"
+  - "/section-8-effet-climat-energie-transition-ecologique/"
+  - "/section-9-risques-technologiques-sanitaires-pollution/"
   path: "/pages/sections"
   file: content/fr/pages/sections/_index.html
 - title: Site de LGVEA
+  slug: site-de-lgvea
   target: https://www.lgvea.fr
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
