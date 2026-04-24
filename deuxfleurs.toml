@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/section-4-effets-cumules-interactions-fragmentation/index.html"
+from = "/section-4-effets-cumules-interactions-fragmentation/"
 to = "/section-4-effets-cumules-interactions-fragmentation-ecologique/"
 
 [[redirects]]
-from = "/section-3-biodiversite-especes-protegees-1/index.html"
+from = "/section-3-biodiversite-especes-protegees-1/"
 to = "/section-4-effets-cumules-interactions-fragmentation-ecologique/"
 
 [[redirects]]
-from = "/equipe-editoriale/index.html"
+from = "/equipe-editoriale/"
 to = "/personnes/equipe-editoriale/"
 
